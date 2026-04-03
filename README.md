@@ -27,8 +27,7 @@ log_analyzer/
 ├── parser.py        # Regex parsing + streaming generator
 ├── analyzer.py      # Statistical analysis engine
 ├── utils.py         # Message normalization, helpers
-├── sample_logs/
-│   └── app.log      # ~3 000-line sample log for testing
+├── app.log      # ~3 000-line sample log for testing
 └── README.md
 ```
 
